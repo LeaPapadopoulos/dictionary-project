@@ -1,1 +1,27 @@
+body {
+  background: rgba(213, 237, 240, 0.685);
+}
 
+a {
+  color: #c1d3e7;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin: 30px 0;
+}
+
+.App-logo {
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
